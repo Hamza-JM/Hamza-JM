@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=django" />
   <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=angular" />
   <img src="https://skillicons.dev/icons?i=symfony" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
